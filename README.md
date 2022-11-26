@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Supriyo</h1>
 <h3 align="center">A Cyber-Security enthusiast.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/UnfitPitifulHoatzin-size_restricted.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riyyoo&label=Profile%20views&color=0e75b6&style=flat" alt="riyyoo" /> </p>
 
