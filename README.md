@@ -1,7 +1,7 @@
-[![MasterHead](https://cdn.pixabay.com/photo/2017/01/01/14/39/hacker-1944688_960_720.jpg)]
 <h1 align="center">Hi 👋, I'm Supriyo</h1>
 <h3 align="center">A Cyber-Security enthusiast.</h3>
-(img align="right" alt="Coding" width="400" src="https://media.tenor.com/-SV9TjUGabMAAAAC/hacker-python.gif")
+
+<img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/UnfitPitifulHoatzin-size_restricted.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riyyoo&label=Profile%20views&color=0e75b6&style=flat" alt="riyyoo" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Blue team**
 
-- 💬 Ask me about **Penetration test, OSINT, OWASP ZAP, Metasploit Framework, MobSF**
+- 💬 Ask me about **Penetration test,OSINT,OWASP ZAP,Metasploit Framework,MobSF**
 
 - 📫 How to reach me **supriyo24gayen@gmail.com**
 
@@ -28,4 +28,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riyyoo&show_icons=true&locale=en" alt="riyyoo" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riyyoo&" alt="riyyoo" /></p>
-
