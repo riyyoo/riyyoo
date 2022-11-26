@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riyyoo&label=Profile%20views&color=0e75b6&style=flat" alt="riyyoo" /> </p>
 
-- 🌱 I’m currently studying **BSc. Cyber Security**
+- 👨‍💻 I’m currently studying **BSc. Cyber Security**
 
 - 🤝 I’m looking for help with **Blue team**
 
