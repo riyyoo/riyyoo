@@ -1,10 +1,9 @@
-[![MasterHead](https://www.careersingovernment.com/tools/wp-content/uploads/2017/08/cyber-security-banner.jpg)]
+[![MasterHead](https://cdn.pixabay.com/photo/2017/01/01/14/39/hacker-1944688_960_720.jpg)]
 <h1 align="center">Hi 👋, I'm Supriyo</h1>
 <h3 align="center">A Cyber-Security enthusiast.</h3>
+(img align="right" alt="Coding" width="400" src="https://media.tenor.com/-SV9TjUGabMAAAAC/hacker-python.gif")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riyyoo&label=Profile%20views&color=0e75b6&style=flat" alt="riyyoo" /> </p>
-
-(img align="right" alt="Coding" width="400" src="https://media.tenor.com/-SV9TjUGabMAAAAC/hacker-python.gif")
 
 - 🌱 I’m currently learning **BSc. Cyber Security**
 
